@@ -9,3 +9,20 @@ body {
 /*
 Add some style blocks below this line to style the card.
 */
+
+
+.parent
+{
+    width: 328px;
+    border: 1px solid grey;
+}
+
+.card_title 
+{
+    margin-left: 10px;
+}
+
+.card_content
+{
+    margin: 10px;
+}
